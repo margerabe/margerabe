@@ -2,11 +2,8 @@
 <h3 align="center">Ex - Asia expat / investment banker turned coder</h3>
 
 - 🔭 I’m currently working on **polishing my Rails app prototypes**
-
 - 🌱 I’m currently learning **React/Redux and want to get into Node.JS**
-
 - 👯 I’m looking to collaborate on **new Rails apps!**
-
 - 📫 How to reach me **marsanraphael@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
