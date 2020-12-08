@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Raphaël</h1>
-<h4 align="center">Ex - Asia expat / investment banker turned coder</h3>
+<h3 align="center">Ex - Asia expat / investment banker turned coder</h3>
 
 - 🔭 I’m currently working on **polishing my Rails app prototypes**
 - 🌱 I’m currently learning **React/Redux and want to get into Node.JS**
