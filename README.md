@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raphaël</h1>
+<h2 align="center">Hi 👋, I'm Raphaël</h1>
 <h3 align="center">Ex - Asia expat / investment banker turned coder</h3>
 
 - 🔭 I’m currently working on **polishing my Rails app prototypes**
