@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Raphaël</h1>
 <h3 align="center">Ex - Asia expat / investment banker turned coder</h3>
 
-- 🔭 I’m currently working on **polishing my Rails app prototypes:** **<a href="https://www.nerdsquad.me" target="_blank"> nerdSquad</a> / <a href="https://guilderapp.herokuapp.com" target="_blank">Guilder</a>**
+- 🔭 I’m currently working on **polishing my Rails app prototypes:** **<a href="https://www.nerdsquad.me" target="blank"> nerdSquad</a> / <a href="https://guilderapp.herokuapp.com" target="blank">Guilder</a>**
 - 🌱 I’m currently learning **React/Redux and want to get into Node.JS**
 - 👯 I’m looking to collaborate on **new Rails apps!**
 - 📫 How to reach me **marsanraphael@gmail.com**
