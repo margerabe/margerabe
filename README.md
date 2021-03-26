@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Raphaël</h1>
-<h3 align="center">Ex - Asia expat / investment banker turned coder</h3>
+<h3 align="center">Ex - Asia expat / investment banker turned coder wannabe</h3>
 
 - 🔭 I’m currently working on **polishing my Rails app prototypes:** **<a href="https://www.nerdsquad.me" target="_blank"> nerdSquad</a> / <a href="https://guilderapp.herokuapp.com" target="_blank">Guilder</a>**
 - 👯 I’m looking to collaborate on **new Rails apps!**
