@@ -6,12 +6,11 @@
 <ul>
   <br>
 <li>🎲 <a href="https://nerdsquad.herokuapp.com/">nerdsquad</a>: a platform where people build their own boardgame or join & play pre-existing gamerooms (eg. chess, monopoly) </li>
-<li>🔨 <a href="https://guilderapp.herokuapp.com/">guilder</a>: marketplace for local craftsmen of all kinds, allowing users to book appointments for services </li>
-<br>  
+<li>🔨 <a href="https://guilderapp.herokuapp.com/">guilder</a>: marketplace for local craftsmen of all kinds, allowing users to book appointments for services </li> 
 </ul>
-👯 I’m looking to collaborate on **new Rails apps!**<br>
+👯 I’m looking to collaborate on <strong>new Rails apps!</strong><br>
 <br>
-📫 How to reach me **marsanraphael@gmail.com**
+📫 Reach me at <strong>marsanraphael@gmail.com</strong
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
