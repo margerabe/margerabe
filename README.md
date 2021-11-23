@@ -1,9 +1,19 @@
 <h2 align="center">Hi 👋, I'm Raphaël</h1>
-<h3 align="center">Ex - Asia expat / investment banker turned coder wannabe</h3>
-
-- 👯 I’m looking to collaborate on **new Rails apps!**
-- 📫 How to reach me **marsanraphael@gmail.com**
-
+<h3 align="center">Ex - Asia expat / gentle banker turned coder wannabe & provider of good ambiance</h3>
+<br>
+🖥️ Please find below a few mini-rails apps which I've built 🖥️ :
+<br>
+<ul>
+  <br>
+<li>🎲 <a href="https://nerdsquad.herokuapp.com/">nerdsquad</a>: a platform where people build their own boardgame or join & play pre-existing gamerooms (eg. chess, monopoly) </li>
+<li>🔨 <a href="https://guilderapp.herokuapp.com/">guilder</a>: marketplace for local craftsmen of all kinds, allowing users to book appointments for services </li>
+<br>  
+</ul>
+👯 I’m looking to collaborate on **new Rails apps!**<br>
+<br>
+📫 How to reach me **marsanraphael@gmail.com**
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raphaelmarsan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raphaelmarsan" height="30" width="40" /></a>
