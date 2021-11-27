@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Raphaël</h1>
 <h3 align="center">Ex - Asia expat / gentle banker turned coder wannabe & provider of good ambiance</h3>
 <br>
-🖥️ Please find below a few mini-rails apps which I've built 🖥️ :
+🖥️ Please find below a few mini-rails apps which I've built (signup/login required for most functionalities to work) 🖥️ :
 <br>
 <ul>
   <br>
