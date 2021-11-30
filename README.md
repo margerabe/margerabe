@@ -5,8 +5,8 @@
 <br>
 <ul>
   <br>
-<li>🎲 <a href="https://nerdsquad.herokuapp.com/">nerdsquad</a>: a platform where people build their own boardgame or join & play pre-existing gamerooms (eg. chess, monopoly) </li>
-<li>🔨 <a href="https://guilderapp.herokuapp.com/">guilder</a>: marketplace for local craftsmen of all kinds, allowing users to book appointments for services </li> 
+<li>🎲 <a href="https://nerdsquad.herokuapp.com/">nerdsquad</a>: build your custom boardgame or join pre-existing gamerooms (of chess, monopoly...) </li>
+<li>🔨 <a href="https://guilderapp.herokuapp.com/">guilder</a>: marketplace for local craftsmen of all kinds; book appointments with local service providers </li> 
 </ul>
 👯 I’m looking to collaborate on <strong>new Rails apps!</strong><br>
 <br>
