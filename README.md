@@ -1,12 +1,4 @@
 <h2 align="center">Hi 👋, I'm Raphaël</h1>
-<h3 align="center">Ex - Asia expat / gentle banker turned coder wannabe & provider of good ambiance</h3>
-<br>
-🖥️ Please find below a few mini-rails apps which I've built at Le Wagon bootcamp (not fully maintainted) 🖥️ :
-<br>
-<ul>
-  <br>
-<li>🎲 <a href="https://nerdsquad.herokuapp.com/">nerdsquad</a>: build your custom boardgame or join pre-existing gamerooms (of chess, monopoly...) </li>
-<li>🔨 <a href="https://guilderapp.herokuapp.com/">guilder</a>: marketplace for local craftsmen of all kinds; book appointments with local service providers </li> 
 </ul>
 👯 I’m looking to collaborate on <strong>new Rails apps!</strong><br>
 <br>
